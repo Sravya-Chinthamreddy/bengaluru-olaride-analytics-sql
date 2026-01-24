@@ -143,7 +143,8 @@ Overall, this analysis led to **data-backed recommendations** to minimize cancel
 
 ## Developed By
 
-**Name:** Prashant Kumar 
+**Name:** Sravya Chinthamreddy
+
 
 
 
